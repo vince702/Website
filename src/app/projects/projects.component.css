@@ -30,7 +30,5 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: purple;
-  border-radius: 25px;
-
+  background-color: #04AA6D;
 }
